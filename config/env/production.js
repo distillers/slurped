@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/wevver-prod',
+    db: 'mongodb://test:test@dbh16.mongolab.com:27167/wevver',
     app: {
         name: 'MEAN - A Modern Stack - Production'
     },
